@@ -1,19 +1,17 @@
-.App {
-  width: 1024px;
-  margin: 0 auto;
-}
-
 // Header
 .header {
-  title {
+  margin-bottom: 24px;
+
+  .title {
     font-size: 48px;
     color: #131C43;
-
+    margin-bottom: 12px;
   }
 
   .todo-counter {
     font-size: 32px;
     color: #A3AABC;
+    font-weight: 700;
 
   }
 }
